@@ -7,3 +7,5 @@ Plan, design and develop. This step includes planning the automation strategy an
 Execute the test. Software is tested using automation scripts. The testing tool should also collect data and provide detailed test reports.
 Maintenance. Automated test scripts are modified and updated as needed with newer versions of a software build.
 Tests that are normally automated include the following:
+vhsdhuehruygyrghdjhfdjskloiuygtruieoslkxndcnmxz,xskmdjrieowapsijd
+djfirhiehriuteiuyiuthfuidjdsodpwiueytedsjxmxkijudshyrfgeuwijaskoqp0w9iw2ueryfhdjsk
