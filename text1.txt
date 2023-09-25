@@ -1,0 +1,9 @@
+How does automated testing work?
+The automated testing process generally follows this series of steps:
+
+Select a testing tool. This depends on the type of testing being done and if the tool in question supports the platform on which the software is being developed.
+Define the scope of automation. This means how much of the software testing is automated.
+Plan, design and develop. This step includes planning the automation strategy and developing test scripts.
+Execute the test. Software is tested using automation scripts. The testing tool should also collect data and provide detailed test reports.
+Maintenance. Automated test scripts are modified and updated as needed with newer versions of a software build.
+Tests that are normally automated include the following:
